@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "copy_block_id",
+  "version": "1.0.0",
+  "name": "Copy Block ID",
+  "description": "Fabricで紙を持ってブロックを右クリックするとブロックIDをコピーするMOD",
+  "authors": [
+    "example"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.CopyBlockIdClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
