@@ -1,4 +1,5 @@
 # Fabric Example Mod
+https://github.com/FabricMC/fabric-example-mod から作成。余分なファイルが多いかもしれないが動作はする。
 
 ## Setup
 
