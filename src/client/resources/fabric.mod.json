@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "copy_block_id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Copy Block ID",
   "description": "Fabricで紙を持ってブロックを右クリックするとブロックIDをコピーするMOD",
   "authors": [
